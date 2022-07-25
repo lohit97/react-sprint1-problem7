@@ -39,7 +39,7 @@ Metrics:
 [db.json](https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-06-22/db_720032.json)
 - Add a sort option
 - The sort button should sort users based on ascending order or descending order of name
-**Note** 
+ #### **Note** 
 - Make sure you use only the given components and dont create new Components, files, folders of your own. Changing component name, file/folder structures might result in giving you zero marks
 - Do Not Remove `data-testid="xxxx"` from anywhere, these are used by testing tools to test your code, removal of this will lead to low score.
 - Also make sure to cross check all the spellings and Case of Texts.
