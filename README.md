@@ -29,6 +29,8 @@ Reacts , state and props
         - if true then a button to show follow
 - use the given JSON file to create the list of UserDetails
 - you may use module css to achieve the output (minimum inline styles)
+- Add a sort option
+- The sort button should sort users based on ascending order or descending order of name
 
 Metrics:
 - styling
@@ -37,8 +39,7 @@ Metrics:
 
 #### users.json
 [db.json](https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-06-22/db_720032.json)
-- Add a sort option
-- The sort button should sort users based on ascending order or descending order of name
+
  #### **Note** 
 - Make sure you use only the given components and dont create new Components, files, folders of your own. Changing component name, file/folder structures might result in giving you zero marks
 - Do Not Remove `data-testid="xxxx"` from anywhere, these are used by testing tools to test your code, removal of this will lead to low score.
