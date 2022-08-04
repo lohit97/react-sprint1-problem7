@@ -26,7 +26,7 @@ Reacts , state and props
     - posts (number of posts)
     - isFollowing (boolean, )
         - if true then a button to show unfollow
-        - if true then a button to show follow
+        - if false then a button to show follow
 - use the given JSON file to create the list of UserDetails
 - you may use module css to achieve the output (minimum inline styles)
 - Add a sort option
