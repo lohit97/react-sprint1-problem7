@@ -9,7 +9,7 @@ Reacts , state and props
 
    - `npm install` - To install the dependencies
    - `npm start` - To Start running the application.
-   - `npm test` - To run the tests
+   
 ### Users Display 
 ### Description
 
